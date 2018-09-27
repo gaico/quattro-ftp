@@ -1,0 +1,23 @@
+{
+  "name": "quattro-ftp",
+  "version": "1.0.0",
+  "description": "GetFilesFromFtpServer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaico/quattro-ftp.git"
+  },
+  "author": "gaico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaico/quattro-ftp/issues"
+  },
+  "homepage": "https://github.com/gaico/quattro-ftp#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "ftp": "^0.3.10",
+  }
+}
