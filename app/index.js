@@ -45,10 +45,10 @@ var c = new Client();
   }
 
   config =  {
-        host: 'ftp.pcextreme.nl',
+        host: 'ftp.whatever.com',
         port: 21,
-        user: '2146.stoltenborgh.nl',
-        password: 'HenkVerhoek01'
+        user: '-----',
+        password: '-----'
     };
 
     c.connect(config);
